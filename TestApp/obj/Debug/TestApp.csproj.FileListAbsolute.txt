@@ -6,3 +6,6 @@ c:\users\jgalacga\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Debu
 c:\users\jgalacga\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Debug\CloudSdk.CoreLib.xml
 c:\users\jgalacga\documents\visual studio 2015\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
 c:\users\jgalacga\documents\visual studio 2015\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+c:\tools\file manager mvc c#\file-manager-mvc-c-\TestApp\bin\Debug\TestApp.exe.config
+c:\tools\file manager mvc c#\file-manager-mvc-c-\TestApp\obj\Debug\TestApp.exe
+c:\tools\file manager mvc c#\file-manager-mvc-c-\TestApp\obj\Debug\TestApp.pdb
