@@ -1,6 +1,8 @@
 # File-Manager-MVC-C-
 File Manager using MVC C# and JQuery 
 
+<img src="https://github.com/sniper57/File-Manager-MVC-C-/blob/master/FileManagerApp/Assets/img/filemanagerapp.PNG" />
+
 Requirement: Visual Studio IDE and Microsoft SQL Server (any version)
 
 How to use?
