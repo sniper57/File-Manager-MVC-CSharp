@@ -1,4 +1,4 @@
-# File-Manager-MVC-C-
+# File-Manager-MVC-C-Sharp
 File Manager using MVC C# and JQuery 
 
 <img src="https://github.com/sniper57/File-Manager-MVC-C-/blob/master/FileManagerApp/Assets/img/filemanagerapp.PNG" />
