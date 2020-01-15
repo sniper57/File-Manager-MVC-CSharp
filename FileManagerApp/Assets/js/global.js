@@ -142,7 +142,7 @@ function update() {
             row.append(
                 '<ul>'+
                 '   <li>'+
-                '       <a class="parent-item folder" ondblclick="OpenFileDirectory(this);" data-uid="' + result.Id + '" data-path="' + result.FilePath + '" href="' + result.Id + '">[Folder] ' + result.FileName + '</a>' +
+                '       <a class="parent-item folder" ondblclick="OpenFileDirectory(this);" data-uid="' + result.Id + '" data-path="' + result.FilePath + '" href="#">[Folder] ' + result.FileName + '</a>' +
                         //Populate ChildNode Here If Available
                         populateChild(result.ChildNode) +
                 '   </li>'+
